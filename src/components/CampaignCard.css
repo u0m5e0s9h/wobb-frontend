@@ -1,0 +1,30 @@
+.campaign-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .campaign-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .campaign-details {
+    padding: 1rem;
+  }
+  
+  .progress {
+    background-color: #f0f0f0;
+    height: 10px;
+    border-radius: 5px;
+    margin: 0.5rem 0;
+  }
+  
+  .progress-bar {
+    background-color: #28a745;
+    height: 100%;
+    border-radius: 5px;
+  }
+  
